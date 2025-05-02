@@ -1,4 +1,4 @@
-let dolar = 5.653
+let dolar = 5.65
 
 let usdInput = document.querySelector("#usd")
 let brlInput = document.querySelector("#brl")
